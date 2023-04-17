@@ -1,0 +1,32 @@
+head {
+    display: none;
+}
+
+@media screen and (min-width: 768px){ 
+}
+
+body {
+    width: 768px;
+    width: 414px;
+    margin: 0 auto;
+    background-color: #F2F2F2;
+}
+
+@media screen and (min-width: 768px) {   
+}
+
+footer {
+    grid-template-columns: 1fr;
+}
+
+footer {
+    text-align: center;
+    background-color: #FFFFFF;
+    display: grid;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+}
+
+html {
+    background-color: rgba(122, 191, 191, .5);
+}
